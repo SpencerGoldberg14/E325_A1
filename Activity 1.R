@@ -33,7 +33,8 @@ degreesF <- degreesC*(9/5)+32
 # question 1: convert elevation from feet to meters
 peaks.m <- peaks*0.3048
 
-# question 2: 
+# question 2: What would happen if you typed all of your code in the console? Would it follow version control practices?
+# answer for question 2: The code runs in the console but it does not follow version control. GitHub tracks changes through files rather than console commands.
 
 # question 3: isolate the row with the longest round trip length
 max.roundTrip <- max(roundTrip)
