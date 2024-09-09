@@ -38,6 +38,4 @@ peaks.m <- peaks*0.3048
 
 # question 3: isolate the row with the longest round trip length
 max.roundTrip <- max(roundTrip)
-
 highPeaks[2,]
-
